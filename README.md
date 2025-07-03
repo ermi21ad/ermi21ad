@@ -37,7 +37,7 @@
 ### 💬 Let's Connect
 
 📧 Email: **ermiasabebezewdie@gmail.com**  
-🌍 Portfolio: _coming soon..._  
+🌍 Portfolio:**https://ermias-abebe-portfolio.vercel.app/**
 📂 GitHub Repos: Scroll down and explore my pinned projects below 👇  
 
 ---
