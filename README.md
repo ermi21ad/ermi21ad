@@ -6,7 +6,7 @@
 
 🛠️ I also have hands-on experience with:
 - **Frontend development**: React, Tailwind/MUI, HTML, CSS
-- **Backend integration**: Node.js (basics), REST APIs
+- **Backend integration**: Golang/Gin , Node.js/Express js. , REST APIs
 - **Arduino prototyping & embedded systems**: Designing and coding Arduino projects for sensor interfacing, automation, and real-time data collection
 - **Networking & IT Infrastructure** (from internship experience)
 - **Hardware/software troubleshooting**
