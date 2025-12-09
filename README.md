@@ -7,7 +7,7 @@
 <p align="center">  
   <img src="https://visitor-badge.glitch.me/badge?page_id=ErmiasAbebe.ErmiasAbebe" alt="Profile views">  
   <a href="https://github.com/ermi21ad"><img src="https://img.shields.io/github/followers/ermi21ad?label=Follow&style=social" alt="GitHub followers"></a>  
-  <a href="https://ermias-abebe-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio"></a>  
+  <a href="https://ermiasabebedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio"></a>  
 </p>  
 
 ---
@@ -115,7 +115,7 @@ A RESTful API showcasing clean architecture, database integration, and API best 
   <a href="mailto:ermiasabebezewdie@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">  
   </a>  
-  <a href="https://ermias-abebe-portfolio.vercel.app/">  
+  <a href="https://ermiasabebdev.vercel.app/">  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">  
   </a>  
   <a href="https://github.com/ermi21ad">  
