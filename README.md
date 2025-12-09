@@ -45,7 +45,7 @@ A comprehensive backend system for **managing court cases and judicial records**
 * Built for robust data handling and secure access control in a high-stakes environment.
 * Showcases expertise in large-scale database design and transaction management.
 
-👉 **Repo:** [REPLACE_WITH_HCCMS_REPO_URL]
+👉 **Repo:** [https://github.com/ermi21ad/hccms](https://github.com/ermi21ad/hccms)
 
 ### ⌨️ Task Manager CLI
 A lightweight and efficient **Command Line Interface (CLI) application** for managing personal tasks.
@@ -53,7 +53,7 @@ A lightweight and efficient **Command Line Interface (CLI) application** for man
 * Demonstrates proficiency in CLI design, file system interactions, and utility development.
 * Built for developers who prefer a terminal-based workflow.
 
-👉 **Repo:** [REPLACE_WITH_TASK_MANAGER_REPO_URL]
+👉 **Repo:** [https://github.com/ermi21ad/TasktrackerCLI](https://github.com/ermi21ad/TasktrackerCLI)
 
 ### 📰 Simple Blog API
 A **RESTful API** project showcasing clean architecture principles and robust database integration.
@@ -64,15 +64,15 @@ A **RESTful API** project showcasing clean architecture principles and robust da
 
 ## 📈 GitHub Activity
 
-The images are now correctly formatted to display the cards using the professional `tokyonight` theme.
+This layout ensures the cards are properly centered and rendered as images using the `tokyonight` theme.
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ermias's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
