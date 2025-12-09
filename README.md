@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://ermiasabebedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio"></a>
   <a href="https://github.com/ermi21ad"><img src="https://img.shields.io/github/followers/ermi21ad?label=Follow&style=social" alt="GitHub followers"></a>
-  </p>
+</p>
 
 ---
 
@@ -39,6 +39,22 @@ A focused professional skill set for modern backend development.
 
 👉 **Repo:** [github.com/ermi21ad/LearningHub](https://github.com/ermi21ad/LearningHub)
 
+### 🏛️ High Court Case Management System (HCCMS)
+A comprehensive backend system for **managing court cases and judicial records**.
+
+* Built for robust data handling and secure access control in a high-stakes environment.
+* Showcases expertise in large-scale database design and transaction management.
+
+👉 **Repo:** [REPLACE_WITH_HCCMS_REPO_URL]
+
+### ⌨️ Task Manager CLI
+A lightweight and efficient **Command Line Interface (CLI) application** for managing personal tasks.
+
+* Demonstrates proficiency in CLI design, file system interactions, and utility development.
+* Built for developers who prefer a terminal-based workflow.
+
+👉 **Repo:** [REPLACE_WITH_TASK_MANAGER_REPO_URL]
+
 ### 📰 Simple Blog API
 A **RESTful API** project showcasing clean architecture principles and robust database integration.
 
@@ -48,7 +64,7 @@ A **RESTful API** project showcasing clean architecture principles and robust da
 
 ## 📈 GitHub Activity
 
-I fixed the GitHub analytics section to use a common, professional theme (**tokyonight**) and ensured the cards are centered and grouped for a clean presentation. I also removed the jokes card to maintain a professional tone.
+The images are now correctly formatted to display the cards using the professional `tokyonight` theme.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ermias's GitHub Stats" />
@@ -61,8 +77,6 @@ I fixed the GitHub analytics section to use a common, professional theme (**toky
 ---
 
 ## 📫 Let's Connect
-
-I simplified the contact section using consistent, clear badges.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ermias-abebe-zewdie">
