@@ -64,19 +64,17 @@ A **RESTful API** project showcasing clean architecture principles and robust da
 
 ## 📈 GitHub Activity
 
-This configuration should reliably display your stats and streak graph.
+This revised block uses direct `<img src="...">` tags inside a `<div align="center">` container, which is the most reliable method for centering and displaying these cards without Markdown interference.
 
-<p align="center">
-  <a href="https://github.com/ermi21ad">
-    <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ermias's GitHub Stats" width="48%">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ermias's GitHub Stats" width="48%">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%">
-</p>
+</div>
 
 ---
 
