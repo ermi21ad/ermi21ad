@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="100" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius: 50%; shadow: 10px;">
+  <img width="100" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Ermias! 👋</h1>
 
 <p align="center">
   <b>QA Engineer (Manual & Automation) | Backend Developer</b><br>
-  Building scalable systems with Golang & Spring Boot.
+  Golang | Spring Boot | Node.js | PostgreSQL
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Backend** | **Golang** (Gin), **Java** (Spring Boot), Node.js, REST, GraphQL |
+| **Backend** | **Golang** (Gin), **Java** (Spring Boot), **Node.js**, REST, GraphQL |
 | **QA & Testing** | **Automation** (Robot Framework, Selenium), Manual Testing, CI/CD |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Firebase |
 | **DevOps/Tools** | Docker, Kubernetes, Git, Podman |
@@ -42,6 +42,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="60%">
 </p>
 
 ---
