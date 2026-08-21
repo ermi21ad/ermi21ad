@@ -46,7 +46,11 @@ Backend developer and QA engineer building reliable, well-tested systems. I focu
 **QA & Testing**
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **DevOps & Tools**
@@ -67,7 +71,7 @@ Backend developer and QA engineer building reliable, well-tested systems. I focu
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="49%">
+<img src="https://streak-stats.demolab.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 
@@ -82,7 +86,5 @@ Backend developer and QA engineer building reliable, well-tested systems. I focu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermias-abebe-zewdie)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ermiasabebezewdie@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ermi21ad)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=ErmiasAbebe.ErmiasAbebe" alt="Views">
 
 </div>
