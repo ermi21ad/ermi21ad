@@ -1,37 +1,88 @@
-<p align="center">
-  <img width="100" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius: 50%;">
-</p>
+<div align="center">
 
-<h1 align="center">Ermias</h1>
-<p align="center">QA Engineer · Backend Developer</p>
+<img width="120" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius: 50%;">
 
-<p align="center">
-  <a href="https://ermiasabebedev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square" alt="Portfolio"></a>
-  <a href="https://github.com/ermi21ad"><img src="https://img.shields.io/github/followers/ermi21ad?label=Follow&style=social" alt="GitHub followers"></a>
-</p>
+# Ermias Abebe
 
-<br>
+**QA Engineer (Manual & Automation) · Backend Developer**
 
-### Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-ermiasabebedev.vercel.app-blue?style=for-the-badge)](https://ermiasabebedev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermias-abebe-zewdie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ermiasabebezewdie@gmail.com)
 
-Golang · Spring Boot · Node.js · PostgreSQL · Docker · Kubernetes
+</div>
 
 <br>
 
-### GitHub
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="48%">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="60%">
-</p>
+Backend developer and QA engineer building reliable, well-tested systems. I focus on clean API design, automated testing pipelines, and production-grade backend services.
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ermias-abebe-zewdie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ermiasabebezewdie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ermi21ad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+**QA & Testing**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="49%">
+
+</div>
+
+<br>
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermias-abebe-zewdie)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ermiasabebezewdie@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ermi21ad)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=ErmiasAbebe.ErmiasAbebe" alt="Views">
+
+</div>
