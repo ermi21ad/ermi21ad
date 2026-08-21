@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Profile Picture" width="120" height="120" />
 
 # Ermias Abebe
 
@@ -66,16 +66,15 @@ Backend developer and QA engineer building reliable, well-tested systems. I focu
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
-<img src="https://streak-stats.demolab.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ermi21ad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ermi21ad&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermi21ad&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
+
 
 <br>
 
